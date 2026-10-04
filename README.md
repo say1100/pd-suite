@@ -1,6 +1,6 @@
 # pd-suite · Product Design Agent Skills / 产品设计全流程 Agent Skills
 
-**Compatible with Claude Code · Codex CLI · Cursor · Gemini CLI — any agent that supports the open Agent Skills standard (`SKILL.md`).**
+**Compatible with any agent supporting the open Agent Skills standard (`SKILL.md`) — tested on ZCode; Claude Code, Codex CLI, Cursor, and Gemini CLI work out of the box.**
 
 > Turn your AI coding assistant into a product design partner: walk a vague idea through a structured decision chain — **requirements → solution comparison → feasibility review → demo → verification** — with verifiable, gate-checked assets at every step, until the idea is *validated and buildable*.
 >
